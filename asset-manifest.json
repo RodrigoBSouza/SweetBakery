@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SweetBakery/static/css/main.b33b8a3e.css",
+    "main.js": "/SweetBakery/static/js/main.75e1519d.js",
+    "static/media/about.png": "/SweetBakery/static/media/about.bec50b0c117cb8bcf526.png",
+    "static/media/contact.png": "/SweetBakery/static/media/contact.5afb692fb5dc164078e7.png",
+    "static/media/banner.png": "/SweetBakery/static/media/banner.81ecd387d773f8edcfd3.png",
+    "index.html": "/SweetBakery/index.html",
+    "main.b33b8a3e.css.map": "/SweetBakery/static/css/main.b33b8a3e.css.map",
+    "main.75e1519d.js.map": "/SweetBakery/static/js/main.75e1519d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b33b8a3e.css",
+    "static/js/main.75e1519d.js"
+  ]
+}
