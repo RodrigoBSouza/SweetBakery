@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SweetBakery/static/css/main.be3889a4.css",
-    "main.js": "/SweetBakery/static/js/main.08b9f0f3.js",
+    "main.js": "/SweetBakery/static/js/main.0b936c6a.js",
     "static/media/about.png": "/SweetBakery/static/media/about.bec50b0c117cb8bcf526.png",
     "static/media/contact.png": "/SweetBakery/static/media/contact.5afb692fb5dc164078e7.png",
     "static/media/banner.png": "/SweetBakery/static/media/banner.81ecd387d773f8edcfd3.png",
     "index.html": "/SweetBakery/index.html",
     "main.be3889a4.css.map": "/SweetBakery/static/css/main.be3889a4.css.map",
-    "main.08b9f0f3.js.map": "/SweetBakery/static/js/main.08b9f0f3.js.map"
+    "main.0b936c6a.js.map": "/SweetBakery/static/js/main.0b936c6a.js.map"
   },
   "entrypoints": [
     "static/css/main.be3889a4.css",
-    "static/js/main.08b9f0f3.js"
+    "static/js/main.0b936c6a.js"
   ]
 }
