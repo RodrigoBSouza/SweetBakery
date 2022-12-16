@@ -15,6 +15,7 @@ const TheBanner = styled.section`
     @media screen and (max-width: 420px) {
         background-size: 100%;
         background-repeat: no-repeat;
+        height: auto;
     }
 `;
 
