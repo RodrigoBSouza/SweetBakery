@@ -13,12 +13,6 @@ const Candy = styled.div`
     p {
         margin: 0;
     }
-
-    @media screen and (max-width: 420px) {
-        h3 {
-            font-size: 16px;
-        }
-    }
 `;
 
 function MenuCandies() {
