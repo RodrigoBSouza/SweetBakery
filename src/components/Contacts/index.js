@@ -14,7 +14,11 @@ const ContainetContacts = styled.section`
     }
 
     @media screen and (max-width: 420px) {
-        padding: 20px 60px;
+        padding: 20px;
+
+        h2 {
+            margin-bottom: 30px;
+        }
     }
 `;
 

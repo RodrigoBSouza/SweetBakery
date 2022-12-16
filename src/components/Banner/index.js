@@ -10,11 +10,9 @@ const TheBanner = styled.section`
     align-items: center;
     background-image: url(${banner});
     background-size: cover;
-    height: 600px;
     
     @media screen and (max-width: 420px) {
         background-size: 100%;
-        height: auto;
         background-repeat: no-repeat;
     }
 `;
@@ -27,7 +25,7 @@ const TextBanner = styled.div`
         margin: 0;
         background-color: #1f1f1f;
         padding: 20px;
-        font-size: 1.5rem;
+        font-size: 1rem;
         color: #f1f1f1;
         opacity: .7;
     }
@@ -39,7 +37,7 @@ const TextBanner = styled.div`
             margin-top: 20px;
             padding: 10px;
             width: auto;
-            font-size: 14px;
+            font-size: .7rem;
             margin: 0;
         }
     }
