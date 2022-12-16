@@ -31,7 +31,7 @@ const ContainerFooter = styled.footer`
 
 const FooterIcons = styled.div`
     display: flex;
-    gap: 10px;
+    gap: 20px;
     justify-content: center;
 
     .icons:hover {
