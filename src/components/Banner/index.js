@@ -10,6 +10,7 @@ const TheBanner = styled.section`
     align-items: center;
     background-image: url(${banner});
     background-size: cover;
+    height: 500px;
     
     @media screen and (max-width: 420px) {
         background-size: 100%;
@@ -19,13 +20,14 @@ const TheBanner = styled.section`
 
 const TextBanner = styled.div`
     max-width: 40%;
-    padding: 10px 60px;
+    padding: 20px 60px;
 
     p {
         margin: 0;
+        width: 70%;
         background-color: #1f1f1f;
         padding: 20px;
-        font-size: 1rem;
+        font-size: 1.5rem;
         color: #f1f1f1;
         opacity: .7;
     }
