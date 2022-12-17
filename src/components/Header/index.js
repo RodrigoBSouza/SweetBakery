@@ -110,22 +110,22 @@ function Header() {
 
     if(x < 421) {
         var scrollToAbout = () => {
-            window.scrollTo(0, 250) 
+            window.scrollTo(0, 200) 
             setOpenMenu(!openMenu)
         }; 
         var scrollToMenu = () => {
-            window.scrollTo(0, 1000)
+            window.scrollTo(0, 980)
             setOpenMenu(!openMenu)
         };
         var scrollToContacts = () => {
-            window.scrollTo(0, 1600)
+            window.scrollTo(0, 1550)
             setOpenMenu(!openMenu)
         };
 
     } else {
-        var scrollToAbout = () => window.scrollTo(0, 590);
-        var scrollToMenu = () => window.scrollTo(0, 1090);
-        var scrollToContacts = () => window.scrollTo(0, 1700);
+        scrollToAbout = () => window.scrollTo(0, 500);
+        scrollToMenu = () => window.scrollTo(0, 1000);
+        scrollToContacts = () => window.scrollTo(0, 1600);
     }
 
     return(

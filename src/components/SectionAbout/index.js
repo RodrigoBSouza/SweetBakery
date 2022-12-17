@@ -41,7 +41,7 @@ const Aside = styled.aside`
 function SectionAbout() {
     return(
         <About>
-            <img src={about}/>
+            <img src={about} alt="The bakery about"/>
             <Aside>
                 <h2>About Us</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non finibus ligula, 

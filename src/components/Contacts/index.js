@@ -118,7 +118,7 @@ function Contatcs() {
         <ContainetContacts>
             <h2>Contacts</h2>
             <Contact>
-                <img src={contact}/>
+                <img src={contact} alt="Coffe break"/>
 
                 <ContactForm onSubmit={handleSubmit}>
                     <input type="text" placeholder="Your name..."/>
